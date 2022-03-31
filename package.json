@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jym0415/RESTful_API_SPA#readme",
   "dependencies": {
     "concurrently": "^7.0.0",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
   }
 }
